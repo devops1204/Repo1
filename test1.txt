@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 4653-B3DC
+
+ Directory of C:\Users\NBMT225\Desktop\My Project
+
+02/12/2019  12:50 PM    <DIR>          .
+02/12/2019  12:50 PM    <DIR>          ..
+02/12/2019  12:50 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  106,075,033,600 bytes free
